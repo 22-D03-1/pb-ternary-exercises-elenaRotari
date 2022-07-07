@@ -40,7 +40,7 @@ const num2 = 939;
 const result7 =
   num2 % 2 === 0
     ? `"the number ${num2} is even"`
-    : `"the number ${num2}  is odd`;
+    : `"the number ${num2} is odd`;
 console.log({ result7 });
 const num3 = 40.9;
 const result8 =
