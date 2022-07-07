@@ -34,7 +34,7 @@ const num1 = 30;
 const result6 =
   num1 % 2 === 0
     ? `"the number ${num1} is even"`
-    : `"the number ${num1 + 1} +1 is even`;
+    : `"the number ${num1 + 1} is odd`;
 console.log({ result6 });
 const num2 = 939;
 const result7 =
@@ -46,5 +46,5 @@ const num3 = 40.9;
 const result8 =
   num3 % 2 === 0
     ? `"the number ${num3} is even"`
-    : `"the number ${num3} is even`;
+    : `"the number ${num3} is odd`;
 console.log({ result8 });
