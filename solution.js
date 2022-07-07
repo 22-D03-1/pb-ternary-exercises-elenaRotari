@@ -25,7 +25,7 @@ console.log({ result4 });
 
 //5
 const okMarie = "cake";
-const result5 = okMarie ? "Let them eat cake" : "Oh, bother";
+const result5 = okMarie === "cake" ? "Let them eat cake" : "Oh, bother";
 console.log({ result5 });
 
 //6
